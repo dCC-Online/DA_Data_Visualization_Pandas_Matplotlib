@@ -2,13 +2,10 @@
 
 ## INTRODUCTION
 
-Now that we’ve spent some time learning about the capabilities of the Pandas library, we’ll have a chance to put it into action!  For this assignment, we’ll be working with a “dirty” data set of various types of cars.  By using the Pandas library, we’ll be able to view, modify, and clean this data set, ultimately exporting our “clean” data set as a new .csv file! 
+You have been contracted by a team of top-secret government officials, the Boys in Grey, to assist in their search for extraterrestrial life forms.  They have been carefully collecting information on UFO sightings for the past several decades, but don't know how to make sense of their data on their own.  Your task will be to take their UFO sightings data and use what you know about Pandas and Matplotlib to clean and visualize their data in a meaningful way.  Your conclusions and analysis will assist the Boys in Grey in their hunt for life beyond the stars.
 
-This GitHub repository will include the “dirty” .csv data set, as well as a Jupyter Notebook outlining the user stories for this project.  Each user story will have a corresponding empty Python code block for you to submit your answer.  At the end of the project, you will have two `.csv` files: the original “dirty” data set, and your exported “clean” data set, as well as your completed Jupyter Notebook! 
-
-You have been approached by a team of top-secret government officials
-
-They need **your** help in their quest to make contact with extraterrestrial life forms.  
+Good luck!
+![MIB](/assets/MIB.gif)
 ## Technologies
 * Python
 * Matplotlib Library
