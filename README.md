@@ -1,34 +1,10 @@
 # Data Analytics - Visualizing Data with Matplotlib
 
-## INTRODUCTION
-
-You have been contracted by a team of top-secret government officials, the Boys in Grey, to assist in their search for extraterrestrial life forms.  They have been carefully collecting information on UFO sightings for the past several decades, including location, time of day, UFO shape, and more.  However, they don't know how best to interpret their data to understand the ideal time and place to spot a UFO.  Your task will be to take their UFO sightings data and use what you know about Pandas and Matplotlib to clean and visualize their data in a meaningful way.  Your conclusions and analysis will assist the Boys in Grey in their hunt for life beyond the stars!
-
-<p align="center">Good luck!
-</p>
-<p align="center">
-  <img src="/assets/MIB.gif" alt="animated" />
-</p>
-
-## Technologies
-* Python
-* Matplotlib Library
-* Pandas Library
-* Jupyter Notebook
-
-## Resources
-* Data Visualization Cheat Sheet
-
-### Other Resources
-* Video - Visualizing Data with Matplotlib Project Walkthrough
-* Lecture - Visualizing Data with Matplotlib
-* Code Demo - Working with Matplotlib
-* Lecture - Filtering Data with Pandas
-* Code Demo - Filtering Data with Pandas
 ---
+
 ## INSTRUCTIONS FOR SETUP
 
-1. Create a GitHub repository for this project.  Remember to use a Python .gitignore and add a README file!
+1. Create a GitHub repository for this project. Remember to use a Python .gitignore and add a README file!
 2. Clone your repository down onto your computer
 3. Download the `.zip` file from this **GitHub** repository
 4. Unzip on your computer, and move the files `Pandas_Matplotlib_User_Stories.ipynb` and `ufo_sightings.csv` into your own project folder
